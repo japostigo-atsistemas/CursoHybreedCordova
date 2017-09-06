@@ -1,0 +1,23 @@
+{
+  "name": "curso-hybreed-cordova",
+  "version": "1.0.0",
+  "description": "Ejemplo para el curso de Hybreed",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japostigo-atsistemas/CursoHybreedCordova.git"
+  },
+  "keywords": [
+    "curso",
+    "hybreed",
+    "cordova"
+  ],
+  "author": "Posti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japostigo-atsistemas/CursoHybreedCordova/issues"
+  },
+  "homepage": "https://github.com/japostigo-atsistemas/CursoHybreedCordova#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
