@@ -17,8 +17,8 @@ var app = {
             }, {
                 destinationType: navigator.camera.DestinationType.FILE_URI,
                 sourceType: navigator.camera.PictureSourceType.CAMERA,
-                targetWidth: 225,
-                targetHeight: 230,
+                targetWidth: 500,
+                targetHeight: 500,
                 quality: 80
             });
         });
