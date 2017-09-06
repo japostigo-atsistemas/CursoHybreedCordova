@@ -2,4 +2,4 @@
 
 Proyecto de ejemplo para el curso de Hybreed
 
-Estamos probando a hacer push desde diferentes sitios
+Estamos probando a hacer push desde diferentes sitios.
